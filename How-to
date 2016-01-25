@@ -1,4 +1,4 @@
 ... ... ... ... ... ...(if foo.so is not in the folder)
 
-1. run "gcc -fPIC -shared -o foo.so foo.c -lm" in the terminal to compile foo.c & create a foo.so file.
-2. then run "python test.py" to run the python program to show the graph.
+1. run "gcc -fPIC -shared -o diff.so diff.c -lm" in the terminal to compile foo.c & create a foo.so file.
+2. then run "python graph.py" to run the python program to show the graph.
