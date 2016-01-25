@@ -60,7 +60,7 @@ double *diff(void) {
 
 
 
-/*This part is for evaluating difference graph among two point, three point, analytic and five point derivative  */
+/*This part is for evaluating difference graph among two point, three point, analytic and five point derivative error */
 
             //f=fabs(b-a);
            //f1=fabs(b-a);
